@@ -17,7 +17,7 @@ body header {
 body header .header-img {
   width: 1920px;
   height: 1075px;
-  background-image: url(../images/1.jpg);
+  background-image: url(https://github.com/tsubasadesu/furniture/blob/main/1.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -48,7 +48,8 @@ body header .header-img h2 {
 body header .header-second {
   width: 1920px;
   height: 600px;
-  background-image: url(../images/2.jpg);
+  background-image: url(https://github.com/tsubasadesu/furniture/blob/main/2.jpg?raw=true
+);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -218,7 +219,7 @@ body .main .main-section .second-section .section-txt2 .box::after {
 body .info {
   width: 1920px;
   height: 300px;
-  background-image: url(../images/6.jpg);
+  background-image: url(https://github.com/tsubasadesu/furniture/blob/main/6.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
@@ -256,7 +257,7 @@ body .wrapper {
 body .wrapper .wrapper-center {
   height: 600px;
   width: 1920px;
-  background-image: url(../images/7.jpg);
+  background-image: url(https://github.com/tsubasadesu/furniture/blob/main/7.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -324,7 +325,7 @@ body .wrapper .wrapper-center .center-area .img-area .img6 {
 body footer {
   height: 410px;
   width: 1920px;
-  background-image: url(../images/8.png);
+  background-image: url(https://github.com/tsubasadesu/furniture/blob/main/8.png?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
